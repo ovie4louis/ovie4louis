@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi there, I'm [Enakarhire Ovie Louis] 👋</h1>
+<h1 align="center">Hi there, I'm Enakarhire Ovie Louis 👋</h1>
 <p align="center">
   <em>Graduating Student of the ALX Software Engineering Program | Passionate Full-Stack Developer</em>
 </p>
